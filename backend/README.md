@@ -1,2 +1,2 @@
-this porject is my intro to backend.
+this project is my intro to backend.
 
